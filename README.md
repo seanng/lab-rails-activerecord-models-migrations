@@ -11,7 +11,7 @@ You and the people at Tunr want to add some functionality to your talent managem
 ### Requirements
 
 #### Part 1
-  You can use `rails g scaffold` to generate the model, view and controller files one go in this part.
+  You can use `rails g scaffold` to generate the model, view and controller files in one go in this part.
 
   - Create a manager class that inherits from ActiveRecord
 
