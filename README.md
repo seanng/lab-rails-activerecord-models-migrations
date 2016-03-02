@@ -60,8 +60,8 @@ You and the people at Tunr want to add some functionality to your talent managem
     - Artist Last Name: Rox
 
 #### Bonus
-  - Haven't done any CSS & jQuery work for a while? Feel the urge to make the page more presentable?
-
+  1. Try to update the `*.erb.html` view files so that the changes to the DB columns in Part 2 can be reflected in the application? `erb` is just similar to `ejs` so you should have no trouble using it!!
+  1. If you still have time and you don't like the look-and-feel of the scaffold, feel free to update the HTML/CSS!!
 
 
 #### Starter code
